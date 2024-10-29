@@ -1,0 +1,73 @@
+﻿@using Newtonsoft.Json
+@model Project.Models.Order
+@using Microsoft.AspNetCore.Http;
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container">
+
+<table class="table table-bordered table-striped p-5" cellpadding=5>
+    <thead>
+        <tr>
+            <th>
+                Item
+            </th>
+            <th>
+                Image
+            </th>
+            <th>
+                Price
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+            @if (Model != null)
+            {
+                @foreach (var item in Model.Products)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            <img width=100 height=100 src="@Url.Content($"~/template/images/{item.PhotoSrc}")">
+                        </td>
+                        <td>
+                            $ @Html.DisplayFor(modelItem => item.Price)
+                        </td>
+                        <td>
+                            <a asp-controller="Carts" asp-action="RemoveFromCart" asp-route-id="@item.ID">Remove</a>
+                        </td>
+                    </tr>
+                    Model.TotalPrice += @item.Price;
+
+                }
+
+            }
+            <tr>
+                <h2 class="text-center">Your Order Details:</h2>
+            <td>
+                Order Number: @Model.ID
+            </td>
+            <td>
+                Items Quantity: @Model.Products.Count
+            </td>
+            <td>
+                Total Price: $ @Model.TotalPrice
+            </td>
+            <td>
+                Delivery Status: @Model.Status
+            </td>
+</tr>
+    </tbody>
+</table>
+    
+
+   <div><a href="/Home/Menu" class="btn btn-info w-100 text-center mb-5">Make a New Order</a></div>
+
+
+
+</div>

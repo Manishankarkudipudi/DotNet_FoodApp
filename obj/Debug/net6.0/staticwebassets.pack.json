@@ -1,0 +1,465 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Project.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\images\\3b3493af-fad5-412c-8408-baa887cfdb28_page-1_img10.jpg",
+      "PackagePath": "staticwebassets\\images\\3b3493af-fad5-412c-8408-baa887cfdb28_page-1_img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\images\\3f443249-217c-4683-a671-080b5421939d_page-1_img10.jpg",
+      "PackagePath": "staticwebassets\\images\\3f443249-217c-4683-a671-080b5421939d_page-1_img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\images\\9e8f958f-5658-4e2c-9e10-4cec3e21f2c3_page-1_img11.jpg",
+      "PackagePath": "staticwebassets\\images\\9e8f958f-5658-4e2c-9e10-4cec3e21f2c3_page-1_img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\template\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\template\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\template\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\css\\style.css",
+      "PackagePath": "staticwebassets\\template\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\template\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\css\\style.scss",
+      "PackagePath": "staticwebassets\\template\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\template\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\template\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\template\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\0280267b-5a1a-49d5-89be-b073d97b08c0.jpeg",
+      "PackagePath": "staticwebassets\\template\\images\\0280267b-5a1a-49d5-89be-b073d97b08c0.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\14ade224-e467-4a23-9b67-f6cec85f2805_f3.png",
+      "PackagePath": "staticwebassets\\template\\images\\14ade224-e467-4a23-9b67-f6cec85f2805_f3.png"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\1ba66e8d-5c99-4330-82aa-84d49d47eb2e.jpeg",
+      "PackagePath": "staticwebassets\\template\\images\\1ba66e8d-5c99-4330-82aa-84d49d47eb2e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\3b3493af-fad5-412c-8408-baa887cfdb28_page-1_img10.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\3b3493af-fad5-412c-8408-baa887cfdb28_page-1_img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\3f443249-217c-4683-a671-080b5421939d_page-1_img10.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\3f443249-217c-4683-a671-080b5421939d_page-1_img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\41693471-4462-4e37-8ff6-4040b1f3ca3a_FB_IMG_1490442710076.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\41693471-4462-4e37-8ff6-4040b1f3ca3a_FB_IMG_1490442710076.jpg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\4c3183d9-1dea-415e-86e6-a2001750ae9d_f7.png",
+      "PackagePath": "staticwebassets\\template\\images\\4c3183d9-1dea-415e-86e6-a2001750ae9d_f7.png"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\516f49dd-94bf-4db5-b53c-d6e072f50037.jpeg",
+      "PackagePath": "staticwebassets\\template\\images\\516f49dd-94bf-4db5-b53c-d6e072f50037.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\63790ef5-7094-4d43-8df5-b4bc8812439e.jpeg",
+      "PackagePath": "staticwebassets\\template\\images\\63790ef5-7094-4d43-8df5-b4bc8812439e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\7863807a-ece1-49fc-b8cb-51aaeec4397f.png",
+      "PackagePath": "staticwebassets\\template\\images\\7863807a-ece1-49fc-b8cb-51aaeec4397f.png"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\9e8f958f-5658-4e2c-9e10-4cec3e21f2c3_page-1_img11.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\9e8f958f-5658-4e2c-9e10-4cec3e21f2c3_page-1_img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\template\\images\\about-img.png"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\c0d75d46-be20-4195-b0d1-248b217c4cdc.jpeg",
+      "PackagePath": "staticwebassets\\template\\images\\c0d75d46-be20-4195-b0d1-248b217c4cdc.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\c94f024f-342a-47c7-a01e-09e38f3c5607.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\c94f024f-342a-47c7-a01e-09e38f3c5607.jpg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\client1.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\client1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\client2.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\client2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\client4.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\client4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\d10cb802-d42f-443d-99a1-120f941a8791.jpeg",
+      "PackagePath": "staticwebassets\\template\\images\\d10cb802-d42f-443d-99a1-120f941a8791.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\dee246ad-7330-4ead-b534-c261899e8385_f3.png",
+      "PackagePath": "staticwebassets\\template\\images\\dee246ad-7330-4ead-b534-c261899e8385_f3.png"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\e3aa228a-336a-47cc-a7f0-f0820b457806.jpeg",
+      "PackagePath": "staticwebassets\\template\\images\\e3aa228a-336a-47cc-a7f0-f0820b457806.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\f1.png",
+      "PackagePath": "staticwebassets\\template\\images\\f1.png"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\f2.png",
+      "PackagePath": "staticwebassets\\template\\images\\f2.png"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\f3.png",
+      "PackagePath": "staticwebassets\\template\\images\\f3.png"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\f4.png",
+      "PackagePath": "staticwebassets\\template\\images\\f4.png"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\f5.png",
+      "PackagePath": "staticwebassets\\template\\images\\f5.png"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\f6.png",
+      "PackagePath": "staticwebassets\\template\\images\\f6.png"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\f7.png",
+      "PackagePath": "staticwebassets\\template\\images\\f7.png"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\f8.png",
+      "PackagePath": "staticwebassets\\template\\images\\f8.png"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\f9.png",
+      "PackagePath": "staticwebassets\\template\\images\\f9.png"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\f9c9b3a0-8fe4-4b87-b3cf-fa5f5f98d498_f2.png",
+      "PackagePath": "staticwebassets\\template\\images\\f9c9b3a0-8fe4-4b87-b3cf-fa5f5f98d498_f2.png"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\template\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\fb1ab470-5120-424b-b6b7-7ac4efb09080_f2.png",
+      "PackagePath": "staticwebassets\\template\\images\\fb1ab470-5120-424b-b6b7-7ac4efb09080_f2.png"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\fba9dd5a-442b-4dee-8641-0fad049298ac.jpeg",
+      "PackagePath": "staticwebassets\\template\\images\\fba9dd5a-442b-4dee-8641-0fad049298ac.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\fd9c4a8d-8624-4e5f-80e5-fbaec2fca658_f7.png",
+      "PackagePath": "staticwebassets\\template\\images\\fd9c4a8d-8624-4e5f-80e5-fbaec2fca658_f7.png"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\o1.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\o1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\images\\o2.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\o2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\template\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\js\\custom.js",
+      "PackagePath": "staticwebassets\\template\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\reddy\\Downloads\\ManishankarKudipudi_FinalProject\\ManishankarKudipudi_FinalProject\\Project\\wwwroot\\template\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Project.props",
+      "PackagePath": "build\\Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Project.props",
+      "PackagePath": "buildMultiTargeting\\Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Project.props",
+      "PackagePath": "buildTransitive\\Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

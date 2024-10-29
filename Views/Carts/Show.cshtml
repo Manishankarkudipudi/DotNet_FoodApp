@@ -1,0 +1,64 @@
+﻿@using Newtonsoft.Json
+@model Project.Models.Cart
+@using Microsoft.AspNetCore.Http;
+
+@{
+    ViewData["Title"] = "Cart Details";
+    decimal totalPrice = 0;
+}
+
+<div class="container">
+    <h2 class="text-center" >Cart Details</h2>
+
+    <table class="table table-bordered table-striped p-5" cellpadding="5">
+        <thead>
+            <tr>
+                <th>Item</th>
+                <th>Image</th>
+                <th>Price</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Products != null)
+            {
+                @foreach (var item in Model.Products)
+                {
+                    totalPrice += item.Price;
+                    <tr>
+                        <td>@item.Name</td>
+                        <td><img width="100" height="100" src="@Url.Content($"~/template/images/{item.PhotoSrc}")" alt="@item.Name" /></td>
+                        <td>$@item.Price.ToString("F2")</td>
+                        <td>
+                            <a asp-controller="Carts" asp-action="RemoveFromCart" asp-route-id="@item.ID">Remove</a>
+                        </td>
+                    </tr>
+                }
+            }
+            <tr>
+                <td colspan="3"><strong>Total Price:</strong> $@totalPrice.ToString("F2")</td>
+            </tr>
+        </tbody>
+    </table>
+    <div><a class="btn btn-info w-100 text-center" href="/Home/Menu">Order More</a></div>
+
+    <div class="box-shadow my-5">
+        <!-- Updated Forms -->
+        <h2 class="text-center">Checkout Options</h2>
+        <div class="row">
+        <!-- Pay with card -->
+        <form action="/Orders/Checkout" method="POST" class="col-6">
+           
+            <input type="hidden" name="paymentMethod" value="card" />
+            <button type="submit" class="btn btn-dark w-100">Pay with card</button>
+        </form>
+
+        <!-- Cash on Delivery -->
+            <form action="/Orders/FinalizeOrder" method="POST" class="col-6">
+            
+            <input type="hidden" name="paymentMethod" value="cod" />
+            <button type="submit" class="btn btn-dark w-100">Cash On Delivery</button>
+        </form></div>
+
+    </div>
+</div>

@@ -1,0 +1,49 @@
+﻿@model Project.Models.Product
+<div class="container">
+    <div class="row justify-content-center align-items-center">
+        <div class="col-md-7 p-md-5 col-12 box-shadow">
+            <h2 class="text-center">Edit Product</h2>
+
+            <!-- Form to edit the product -->
+            <form asp-action="Edited" asp-controller="Admin" method="post" enctype="multipart/form-data">
+                @Html.AntiForgeryToken()
+                <input type="hidden" name="id" value="@Model.ID" />
+
+                <div class="form-group mb-4">
+                    <label for="Name">Name</label>
+                    <input type="text" name="Name" id="Name" class="form-control" value="@Model.Name" required />
+                </div>
+
+                <div class="form-group mb-4">
+                    <label for="Description">Description</label>
+                    <textarea name="Description" id="Description" class="form-control" required>@Model.Description</textarea>
+                </div>
+
+                <div class="form-group mb-4">
+                    <label for="Price">Price</label>
+                    <input type="number" name="Price" id="Price" class="form-control" value="@Model.Price" required />
+                </div>
+
+                <div class="form-group mb-4">
+                    <label for="Category">Category</label>
+                    <input type="text" name="Category" id="Category" class="form-control" value="@Model.Category" required />
+                </div>
+
+                <div class="form-group mb-4">
+                    <label for="PhotoSrc">Current Photo</label>
+                    <div>
+                        <img src="@Model.PhotoSrc" alt="@Model.Name" width="100" />
+                    </div>
+                    <label for="Photo">Change Photo</label>
+                    <input type="file" name="Photo" id="Photo" class="form-control" accept="image/*" />
+                </div>
+                <div class="row justify-content-between align-items-center">
+                   
+                <input type="submit" value="Save Changes" class="btn btn-dark col-5" />
+                <a href="@Url.Action("ListProducts", "Admin")" class="btn btn-danger col-5">Cancel</a>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>

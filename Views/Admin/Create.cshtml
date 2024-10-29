@@ -1,0 +1,61 @@
+﻿@model Project.Models.Product
+
+@{
+    ViewData["Title"] = "Create Product";
+}
+<div class="row justify-content-center align-items-center">
+    <div class="col-md-7 col-12 p-5 box-shadow">
+
+        <!-- Check for success message in TempData and display it -->
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <div class="alert alert-success">
+                @TempData["SuccessMessage"]
+            </div>
+        }
+
+
+        <a asp-action="ListProducts" class="btn w-100 mb-5 btn-info">List All Products</a>
+
+        <h2 class="text-center">Create Product</h2>
+
+        <!-- Form to create a new product -->
+        <form method="post" asp-action="Create" enctype="multipart/form-data">
+            <div class="form-group mb-4">
+                <label asp-for="Name">Name</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group  mb-4">
+                <label asp-for="Description">Description</label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group  mb-4">
+                <label asp-for="Price">Price</label>
+                <input asp-for="Price" type="number" class="form-control" step="0.01" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+
+            <div class="form-group  mb-4">
+                <label asp-for="Category">Category</label>
+                <input asp-for="Category" class="form-control" />
+                <span asp-validation-for="Category" class="text-danger"></span>
+            </div>
+
+            <div class="form-group  mb-4">
+                <label asp-for="Photo">Photo</label>
+                <input asp-for="Photo" type="file" class="form-control-file" />
+                <span asp-validation-for="Photo" class="text-danger"></span>
+            </div>
+
+            <div class="form-group  mb-4">
+                <input type="submit" value="Create" class="btn w-100 btn-dark" />
+            </div>
+        </form>
+
+
+    </div>
+</div>

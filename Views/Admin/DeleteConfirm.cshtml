@@ -1,0 +1,10 @@
+﻿@model Project.Models.Product
+
+<h2>Delete Successful</h2>
+
+<div>
+    <h4>The product "@Model.Name" has been successfully deleted.</h4>
+
+    <!-- Button to navigate back to the list of products -->
+    <a href="@Url.Action("ListProducts", "Admin")" class="btn btn-secondary">Back to List</a>
+</div>

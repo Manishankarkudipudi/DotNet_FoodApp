@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Project.Models.Product>
+
+@{
+    ViewData["Title"] = "DynamicMenu";
+
+}
+
+
+<!-- food section -->
+
+<section class="food_section layout_padding">
+    <div class="container">
+        <div class="heading_container heading_center">
+            <h2>
+                Our Menu
+            </h2>
+        </div>
+
+        <ul class="filters_menu">
+            <li class="active" data-filter="*">All</li>
+            @foreach (var item in @ViewBag.Category)
+            {
+                string @c = $".{item.Name}";
+                <li data-filter=@c>@item.Name</li>
+            }
+            @*<li data-filter=".burger">Burger</li>
+            <li data-filter=".pizza">Pizza</li>
+            <li data-filter=".pasta">Pasta</li>
+            <li data-filter=".fries">Fries</li>*@
+        </ul>
+
+        <div class="filters-content">
+            <div class="row grid">
+                @foreach (var item in @Model)
+                {
+                    <div class="col-sm-6 col-lg-4 all @item.Category">
+                        <div class="box">
+                            <div>
+                                <div class="img-box">
+                                    <img src="@Url.Content($"~/template/images/{item.PhotoSrc}")">
+
+                                </div>
+                                <div class="detail-box">
+                                    <h5>
+                                        @item.Name
+                                    </h5>
+                                    <p>
+                                        @item.Description
+                                    </p>
+                                    <div class="options">
+                                        <h6>
+                                            $ @item.Price
+                                        </h6>
+                                        @*                    @Html.BeginForm("AddToCart", "Carts", new {id =  @item.ID }, FormMethod.Post)){
+                                    *@
+                                        <a asp-controller="Carts" asp-action="AddToCart" asp-route-productId="@item.ID" asp-route-cartId="@ViewBag.CartID">
+                                            <svg width="24" height="24" viewBox="0 0 24 24">
+                                                <path d="M7 18c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm10 0c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm1.61-3.75L16.22 5H5.21L4.27 2H0v2h3l3.6 7.59-1.35 2.44c-.16.29-.25.62-.25.97 0 1.1.9 2 2 2h12v-2H7.42c-.17 0-.33-.11-.39-.27L8.6 13h7.55c.75 0 1.41-.41 1.73-1.04l3.58-6.49c.08-.14.11-.3.11-.47 0-.55-.45-1-1-1H5.21l.94-2h10.15l1.24 2.24-2.94 5.32.02.04c-.27.5-.78.84-1.37.84H9.57L6.6 7h7.9l.94 2H9.21l2.54 4.5H17.61z" />
+                                            </svg>
+                                        </a>
+                                        @*                    }
+                                    *@
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+
+
+            </div>
+        </div>
+        <div class="btn-box">
+            <a href="">
+                View More
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- end food section -->

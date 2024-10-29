@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Project.Models.Product>
+
+    <div class="container">
+<h2 class="text-center">Product List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Category</th>
+            <th>Photo</th>
+            <th>Actions</th> <!-- Column for actions -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Description</td>
+                <td>@product.Price.ToString("C")</td> <!-- Format price as currency -->
+                <td>@product.Category</td>
+                
+                <td><img src="/template/images/@product.PhotoSrc" alt="@product.Name" width="100" /></td>
+
+                
+                <!-- Add buttons for Edit and Delete -->
+                <td>
+                    <a href="@Url.Action("Edit", "Admin", new { id = product.ID })" class="btn btn-outline-success">Edit</a>
+                    <a href="@Url.Action("Delete", "Admin", new { id = product.ID })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+</div>
